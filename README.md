@@ -18,11 +18,13 @@ We geatest problem that we encountered ...
 
 **Problem type:** Classification
 
-**Target class** Survival
+**Target class:** Survival
 
-**Objetive:** Develop a Machine Learning model that can predict with 80% Accuracy the survival rate of a given Titanic passenger.
+**Objetive:** \
+Develop a Machine Learning model that can predict with 80% Accuracy the survival rate of a given Titanic passenger.
 
-**Hypothesis:** Being a female-child should be the main cause of survival.
+**Hypothesis:** \
+Being a female-child should be the main cause of survival.
 
 ## Selected models
 - Support Vector Machine (SVM) with RBF kernel
