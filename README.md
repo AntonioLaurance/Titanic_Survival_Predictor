@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AntonioLaurance.Titanic_Survival_Predictor" />
 
-# <font align='center'>Machine Learning for Disaster</font>
+# <font align='center'>Titanic - Machine Learning from Disaster</font>
 **Team's name:** *AI's Daemons*\
 **Team's members:** 
 - Cristobal Eleazar Meza
