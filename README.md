@@ -20,7 +20,7 @@ We geatest problem that we encountered ...
 
 **Target class** Survival
 
-**Objetive:** Predict with 80% Accuracy the survival rate.
+**Objetive:** Develop a Machine Learning model that can predict with 80% Accuracy the survival rate of a given Titanic passenger.
 
 **Hypothesis:** Being a female-child should be the main cause of survival.
 
