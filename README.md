@@ -7,7 +7,11 @@
 - Ricardo Campos Luna
 - Diego Esteban Zepeda Ceballos
 
+
 ## Summary
+**Problem type:** Classification\
+**Target class:** Survival
+
 Our proposal to predict the survival rate of a Titanic passenger with given attributes was to analyze all data given from the Kaggle dataset for training 
 (you can find it in the **Datasets** directory) to find out the most relevant variables to determine the likelihood of survival of a given passenger, 
 after obtaining the most relevant variables, we developed several machine learning models to choose the three models with highest **accuracy** 
@@ -16,9 +20,7 @@ and **F1-Score**.
 We geatest problem that we encountered ...
 
 
-**Problem type:** Classification
 
-**Target class:** Survival
 
 **Objetive:** \
 Develop a Machine Learning model that can predict with 80% Accuracy the survival rate of a given Titanic passenger.
