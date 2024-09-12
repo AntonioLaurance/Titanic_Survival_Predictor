@@ -30,7 +30,8 @@ Being a female-child should be the main cause of survival.
 - Support Vector Machine (SVM) with RBF kernel
 - Logistic Regression
 - Neural Networks (Tensorflow model) + SVM\
-  
+
+## Links to Colab Notebooks
 Link to Colab code (sklearn, seaborn): https://colab.research.google.com/drive/1dw1N9s9WjRrH1vGJHGWhnFHBUhR9ru_r#scrollTo=6Nt8oqEfGk2w
 
 Link to Colab code (pyspark): \
